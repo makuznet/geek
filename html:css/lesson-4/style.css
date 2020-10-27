@@ -1,43 +1,43 @@
-.s_body {
+body {
     font-family: sans-serif;
 }
 
-.s_p {
+.text {
     font-size: 16px;
     line-height: 26px;
     color: #1f3f68;
 }
 
-.s_h1 {
+.top_heading {
     font-size: 64px;
     color: #1f3f68;
 }
 
-.s_h2 {
+.heading-contacts {
     font-weight: 500;
     font-size: 44px;
     text-align: center;
 }
 
-.s_h3 {
+.heading {
     font-size: 36px;
     text-align: center;
 }
 
-.s_h4 {
+.heading-mini {
     font-size: 20px;
     line-height: 30px;
     color: #1f3f68;
 }
 
-.s_in {
+.input-text {
     border: 1px solid #356ead;
     box-sizing: border-box;
     border-radius: 10px;
     opacity: 0.4;
 }
 
-.s_btn {
+.button-submit {
     background: #5a98d0;
     box-shadow: 5px 20px 50px rgba(16, 112, 177, 0.2);
     border-radius: 10px;
